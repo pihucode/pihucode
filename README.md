@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome!
+
+- 👋  Hello, I'm Pinxuan Huang
+- :eyes: I am interested in fullstack development (web and mobile) and machine learning
+- 🌱 Currently, I am exploring possibilities of web animations, AI VTubers, and OS-themed sites.
+- :sparkling_heart: My favorite framework is SvelteKit <3
 
 <!--
 **pihucode/pihucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
