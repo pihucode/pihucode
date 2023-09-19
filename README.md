@@ -1,8 +1,8 @@
 ### Welcome!
 
 - 👋  Hello, I'm Pinxuan Huang
-- :eyes: I am interested in fullstack development (web and mobile) and machine learning
-- 🌱 Currently, I am exploring possibilities of web animations, AI VTubers, and OS-themed sites.
+- :eyes: I am interested in fullstack development (web and mobile) and machine learning.
+- 🌱 Currently, I am exploring possibilities of custom animations, AI/ML models, and automation scripting.
 - :sparkling_heart: My favorite framework is SvelteKit <3
 
 <!--
