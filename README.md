@@ -1,7 +1,7 @@
 ### Welcome!
 
 - 👋  Hello, I'm Pinxuan Huang
-- :eyes: I am interested in fullstack development with a focus on system design.
+- :computer: I am interested in fullstack development with a focus on system design.
 - 🌱 Currently, I am exploring possibilities of computer vision, artificial intelligence, machine learning, and automation scripting.
 - :sparkling_heart: My favorite JS framework is SvelteKit <3
 
